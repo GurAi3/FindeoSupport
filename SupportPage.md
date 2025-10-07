@@ -20,6 +20,11 @@ When you find a video you like in the search results, simply tap the star icon (
 
 In both the "Recent Searches" and "Favorites" lists, you can delete an item by swiping left on it. A "Delete" button will appear, allowing you to remove it permanently.
 
+## Contact Us
+
+If your question isn't answered in the FAQ, or if you have encountered a bug or have a feature request, please feel free to contact us. We'd love to hear from you!
+
+- **Email:** findeoapp@gmail.com  
 ---
 
 Thank you for using Findeo!
